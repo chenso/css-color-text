@@ -5,7 +5,7 @@
 
 body {
     font-family: Gill Sans MT, Arial, sans-serif;
-    background-color: #ddd;
+
 }
 
 a {
@@ -21,7 +21,12 @@ a:hover {
     border-width: 2px;
     background-color: #bbb;
     margin-top: -21px;
-    padding-top: 21px;
+    padding-top: 151px;
+    background-image: url(../images/labchicken.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+    color: #fff;
 }
 
 .main-content {
